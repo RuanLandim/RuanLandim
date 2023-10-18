@@ -2,10 +2,10 @@
 
 <p>
   <h1 align="center">
-    <b>Opa eu sou o <a href="https://github.com/RuanLandim">@RuanLandim</a> 👋</b>
+    <b>Hello, I am <a href="https://github.com/RuanLandim">@RuanLandim</a> 👋</b>
   </h1>
   <p align="center">
-    <samp>( "👨‍💻 Desenvolvedor Junior" | "💼 HadesLab & SharkStore" )</samp>
+    <samp>( "👨‍💻 Junior Developer" | "💼 HadesLab & SharkStore" )</samp>
   </p>
 </p>
 
@@ -33,7 +33,7 @@ Age: 21
 Location: Brasil, CE
 Languages: HTML5, CSS3, Lua, JavaScript, MySQL
 Learning: Node.js, ReactJS, React-Native, VuelJS
-Hobbies: Jogos, Séries, Games
+Hobbies: Games and Series
 Discord: Bartolomeu#0612
 ```
 
