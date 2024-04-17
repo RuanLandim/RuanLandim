@@ -56,9 +56,6 @@ Discord: Bartolomeu#0612
     <a href="https://discord.gg/yE2rHRdPtj">
       <img src="https://img.shields.io/badge/Discord-SharkStore-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat-square" />
     </a>
-    <a href="https://discord.gg/HKmQgM2">
-      <img src="https://img.shields.io/badge/Discord-HadesLab-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat-square" />
-    </a>
     <img src="https://komarev.com/ghpvc/?username=RuanLandim&color=blueviolet&style=flat-square" />
   </p>
 </p>
