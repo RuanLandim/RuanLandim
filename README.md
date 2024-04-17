@@ -2,10 +2,10 @@
 
 <p>
   <h1 align="center">
-    <b>Hello, I am <a href="https://github.com/RuanLandim">@RuanLandim</a> 👋</b>
+    <b>Hello, I am <a href="https://github.com/RuanLandim">@RuanLandim</a> or Bartolomeu 👋</b>
   </h1>
   <p align="center">
-    <samp>( "👨‍💻 Junior Developer" | "💼 HadesLab & SharkStore" )</samp>
+    <samp>( "👨‍💻 Junior Developer" | "💼 SharkStore" )</samp>
   </p>
 </p>
 
@@ -19,7 +19,7 @@
 </p>
 
 ```
-> RuanLandim
+> RuanLandim or Bartolomeu
 ```
 
 
