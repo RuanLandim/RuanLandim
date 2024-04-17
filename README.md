@@ -26,7 +26,6 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/460836959951126528/1059707662872363028/31776880.png" width="203" /> 
 
 ```
-RuanLandim
 -------------------------
 Name: Pedro Ruan Landim Macedo
 Age: 21
