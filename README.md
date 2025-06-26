@@ -28,12 +28,12 @@
 ```
 -------------------------
 Name: Pedro Ruan Landim Macedo
-Age: 21
+Age: 24
 Location: Brasil, CE
 Languages: HTML5, CSS3, Lua, JavaScript, MySQL
 Learning: Node.js, ReactJS, React-Native, VuelJS
 Hobbies: Games and Series
-Discord: Bartolomeu#0612
+Discord: Bartolomeu
 ```
 
 <p align="center">
